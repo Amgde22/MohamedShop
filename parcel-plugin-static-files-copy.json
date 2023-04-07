@@ -1,0 +1,5 @@
+{
+  "staticPath": "src/assets",
+  "include": ["**/*.jpg", "**/*.jpeg", "**/*.png", "**/*.svg", "**/*.mp3", "**/*.wav"],
+  "outputDir": "public/assets"
+}
